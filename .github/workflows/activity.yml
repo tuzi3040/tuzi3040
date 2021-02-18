@@ -1,0 +1,14 @@
+name: Recent activity update in README.md
+
+on:
+  schedule:
+    - cron: "*/60 * * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
