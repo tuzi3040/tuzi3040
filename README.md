@@ -9,9 +9,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#102508](https://github.com/Homebrew/homebrew-cask/pull/102508) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-2. 💪 Opened PR [#70](https://github.com/Last-Order/Minyami/pull/70) in [Last-Order/Minyami](https://github.com/Last-Order/Minyami)
-3. 💪 Opened PR [#73376](https://github.com/Homebrew/homebrew-core/pull/73376) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-4. 💪 Opened PR [#72378](https://github.com/Homebrew/homebrew-core/pull/72378) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-5. 💪 Opened PR [#100272](https://github.com/Homebrew/homebrew-cask/pull/100272) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+1. 💪 Opened PR [#7269](https://github.com/DIYgod/RSSHub/pull/7269) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+2. 💪 Opened PR [#102508](https://github.com/Homebrew/homebrew-cask/pull/102508) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+3. 💪 Opened PR [#70](https://github.com/Last-Order/Minyami/pull/70) in [Last-Order/Minyami](https://github.com/Last-Order/Minyami)
+4. 💪 Opened PR [#73376](https://github.com/Homebrew/homebrew-core/pull/73376) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+5. 💪 Opened PR [#72378](https://github.com/Homebrew/homebrew-core/pull/72378) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
 <!--END_SECTION:activity-->
