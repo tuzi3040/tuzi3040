@@ -9,9 +9,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7681](https://github.com/DIYgod/RSSHub/issues/7681) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+1. 💪 Opened PR [#7682](https://github.com/DIYgod/RSSHub/pull/7682) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
 2. 🗣 Commented on [#7681](https://github.com/DIYgod/RSSHub/issues/7681) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
-3. 💪 Opened PR [#7681](https://github.com/DIYgod/RSSHub/pull/7681) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
-4. 💪 Opened PR [#106842](https://github.com/Homebrew/homebrew-cask/pull/106842) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-5. 💪 Opened PR [#78630](https://github.com/Homebrew/homebrew-core/pull/78630) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+3. 🗣 Commented on [#7681](https://github.com/DIYgod/RSSHub/issues/7681) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+4. 💪 Opened PR [#7681](https://github.com/DIYgod/RSSHub/pull/7681) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+5. 💪 Opened PR [#106842](https://github.com/Homebrew/homebrew-cask/pull/106842) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
 <!--END_SECTION:activity-->
