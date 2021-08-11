@@ -9,9 +9,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#109599](https://github.com/Homebrew/homebrew-cask/pull/109599) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-2. 💪 Opened PR [#109472](https://github.com/Homebrew/homebrew-cask/pull/109472) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-3. 🗣 Commented on [#446](https://github.com/GoogleCloudPlatform/cloud-code-vscode/issues/446) in [GoogleCloudPlatform/cloud-code-vscode](https://github.com/GoogleCloudPlatform/cloud-code-vscode)
-4. 💪 Opened PR [#82480](https://github.com/Homebrew/homebrew-core/pull/82480) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-5. 💪 Opened PR [#109136](https://github.com/Homebrew/homebrew-cask/pull/109136) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+1. 💪 Opened PR [#109701](https://github.com/Homebrew/homebrew-cask/pull/109701) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+2. 💪 Opened PR [#109700](https://github.com/Homebrew/homebrew-cask/pull/109700) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+3. 💪 Opened PR [#109599](https://github.com/Homebrew/homebrew-cask/pull/109599) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+4. 💪 Opened PR [#109472](https://github.com/Homebrew/homebrew-cask/pull/109472) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+5. 🗣 Commented on [#446](https://github.com/GoogleCloudPlatform/cloud-code-vscode/issues/446) in [GoogleCloudPlatform/cloud-code-vscode](https://github.com/GoogleCloudPlatform/cloud-code-vscode)
 <!--END_SECTION:activity-->
