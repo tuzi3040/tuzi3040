@@ -9,9 +9,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#112451](https://github.com/Homebrew/homebrew-cask/pull/112451) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-2. 🗣 Commented on [#86894](https://github.com/Homebrew/homebrew-core/issues/86894) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+1. 💪 Opened PR [#112499](https://github.com/Homebrew/homebrew-cask/pull/112499) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+2. 💪 Opened PR [#112451](https://github.com/Homebrew/homebrew-cask/pull/112451) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
 3. 🗣 Commented on [#86894](https://github.com/Homebrew/homebrew-core/issues/86894) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-4. ❌ Reopened PR [#86894](https://github.com/Homebrew/homebrew-core/pull/86894) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-5. ❌ Closed PR [#86894](https://github.com/Homebrew/homebrew-core/pull/86894) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+4. 🗣 Commented on [#86894](https://github.com/Homebrew/homebrew-core/issues/86894) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+5. ❌ Reopened PR [#86894](https://github.com/Homebrew/homebrew-core/pull/86894) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
 <!--END_SECTION:activity-->
