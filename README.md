@@ -10,8 +10,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#87879](https://github.com/Homebrew/homebrew-core/issues/87879) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-2. ❌ Reopened PR [#89068](https://github.com/Homebrew/homebrew-core/pull/89068) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-3. ❌ Closed PR [#89068](https://github.com/Homebrew/homebrew-core/pull/89068) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-4. 💪 Opened PR [#89069](https://github.com/Homebrew/homebrew-core/pull/89069) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-5. 💪 Opened PR [#89068](https://github.com/Homebrew/homebrew-core/pull/89068) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+2. 🗣 Commented on [#88881](https://github.com/Homebrew/homebrew-core/issues/88881) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+3. ❌ Reopened PR [#88881](https://github.com/Homebrew/homebrew-core/pull/88881) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+4. ❌ Closed PR [#88881](https://github.com/Homebrew/homebrew-core/pull/88881) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+5. 🗣 Commented on [#87879](https://github.com/Homebrew/homebrew-core/issues/87879) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
 <!--END_SECTION:activity-->
