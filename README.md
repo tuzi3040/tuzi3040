@@ -9,9 +9,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#89068](https://github.com/Homebrew/homebrew-core/issues/89068) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-2. 🗣 Commented on [#86758](https://github.com/Homebrew/homebrew-core/issues/86758) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-3. 💪 Opened PR [#114356](https://github.com/Homebrew/homebrew-cask/pull/114356) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-4. 🗣 Commented on [#89068](https://github.com/Homebrew/homebrew-core/issues/89068) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-5. 🗣 Commented on [#86758](https://github.com/Homebrew/homebrew-core/issues/86758) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+1. 💪 Opened PR [#89459](https://github.com/Homebrew/homebrew-core/pull/89459) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+2. 🗣 Commented on [#89068](https://github.com/Homebrew/homebrew-core/issues/89068) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+3. 🗣 Commented on [#89068](https://github.com/Homebrew/homebrew-core/issues/89068) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+4. 🗣 Commented on [#86758](https://github.com/Homebrew/homebrew-core/issues/86758) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+5. 💪 Opened PR [#114356](https://github.com/Homebrew/homebrew-cask/pull/114356) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
 <!--END_SECTION:activity-->
