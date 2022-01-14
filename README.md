@@ -9,9 +9,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#92618](https://github.com/Homebrew/homebrew-core/pull/92618) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-2. 🗣 Commented on [#12674](https://github.com/Homebrew/brew/issues/12674) in [Homebrew/brew](https://github.com/Homebrew/brew)
-3. 🗣 Commented on [#12674](https://github.com/Homebrew/brew/issues/12674) in [Homebrew/brew](https://github.com/Homebrew/brew)
-4. 🗣 Commented on [#12674](https://github.com/Homebrew/brew/issues/12674) in [Homebrew/brew](https://github.com/Homebrew/brew)
-5. 💪 Opened PR [#12674](https://github.com/Homebrew/brew/pull/12674) in [Homebrew/brew](https://github.com/Homebrew/brew)
+1. 🎉 Merged PR [#2](https://github.com/tuzi3040/goodls/pull/2) in [tuzi3040/goodls](https://github.com/tuzi3040/goodls)
+2. 💪 Opened PR [#2](https://github.com/tuzi3040/goodls/pull/2) in [tuzi3040/goodls](https://github.com/tuzi3040/goodls)
+3. 🎉 Merged PR [#1](https://github.com/tuzi3040/goodls/pull/1) in [tuzi3040/goodls](https://github.com/tuzi3040/goodls)
+4. 💪 Opened PR [#1](https://github.com/tuzi3040/goodls/pull/1) in [tuzi3040/goodls](https://github.com/tuzi3040/goodls)
+5. 💪 Opened PR [#92618](https://github.com/Homebrew/homebrew-core/pull/92618) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
 <!--END_SECTION:activity-->
