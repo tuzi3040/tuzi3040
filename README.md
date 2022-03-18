@@ -9,9 +9,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2276](https://github.com/pyenv/pyenv/pull/2276) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
-2. 💪 Opened PR [#97014](https://github.com/Homebrew/homebrew-core/pull/97014) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-3. 💪 Opened PR [#97013](https://github.com/Homebrew/homebrew-core/pull/97013) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-4. 💪 Opened PR [#120579](https://github.com/Homebrew/homebrew-cask/pull/120579) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-5. 💪 Opened PR [#96983](https://github.com/Homebrew/homebrew-core/pull/96983) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+1. 💪 Opened PR [#97122](https://github.com/Homebrew/homebrew-core/pull/97122) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+2. 💪 Opened PR [#97121](https://github.com/Homebrew/homebrew-core/pull/97121) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+3. 💪 Opened PR [#97120](https://github.com/Homebrew/homebrew-core/pull/97120) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+4. 💪 Opened PR [#97119](https://github.com/Homebrew/homebrew-core/pull/97119) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+5. 💪 Opened PR [#97118](https://github.com/Homebrew/homebrew-core/pull/97118) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
 <!--END_SECTION:activity-->
