@@ -9,9 +9,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13181](https://github.com/DIYgod/RSSHub/pull/13181) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
-2. ❌ Closed PR [#13180](https://github.com/DIYgod/RSSHub/pull/13180) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
-3. 💪 Opened PR [#13180](https://github.com/DIYgod/RSSHub/pull/13180) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
-4. 🎉 Merged PR [#201](https://github.com/ProjectAnni/repo/pull/201) in [ProjectAnni/repo](https://github.com/ProjectAnni/repo)
-5. 🎉 Merged PR [#198](https://github.com/ProjectAnni/repo/pull/198) in [ProjectAnni/repo](https://github.com/ProjectAnni/repo)
+1. ❌ Closed PR [#388](https://github.com/tuzi3040/RSSHub/pull/388) in [tuzi3040/RSSHub](https://github.com/tuzi3040/RSSHub)
+2. ❌ Closed PR [#386](https://github.com/tuzi3040/RSSHub/pull/386) in [tuzi3040/RSSHub](https://github.com/tuzi3040/RSSHub)
+3. ❌ Closed PR [#384](https://github.com/tuzi3040/RSSHub/pull/384) in [tuzi3040/RSSHub](https://github.com/tuzi3040/RSSHub)
+4. ❌ Closed PR [#382](https://github.com/tuzi3040/RSSHub/pull/382) in [tuzi3040/RSSHub](https://github.com/tuzi3040/RSSHub)
+5. ❌ Closed PR [#379](https://github.com/tuzi3040/RSSHub/pull/379) in [tuzi3040/RSSHub](https://github.com/tuzi3040/RSSHub)
 <!--END_SECTION:activity-->
