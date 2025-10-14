@@ -10,7 +10,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3338](https://github.com/pyenv/pyenv/pull/3338#issuecomment-3380819111) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
-2. 💪 Opened PR [#3338](https://github.com/pyenv/pyenv/pull/3338) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
+2. 💪 Opened PR [#3338](undefined) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
 3. 🎉 Merged PR [#214](https://github.com/ProjectAnni/repo/pull/214) in [ProjectAnni/repo](https://github.com/ProjectAnni/repo)
 4. 🎉 Merged PR [#213](https://github.com/ProjectAnni/repo/pull/213) in [ProjectAnni/repo](https://github.com/ProjectAnni/repo)
 5. 🎉 Merged PR [#211](https://github.com/ProjectAnni/repo/pull/211) in [ProjectAnni/repo](https://github.com/ProjectAnni/repo)
