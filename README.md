@@ -9,7 +9,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#4507](undefined) in [honojs/hono](https://github.com/honojs/hono)
+1. ❌ Closed PR [#1](https://github.com/tuzi3040/pyenv/pull/1) in [tuzi3040/pyenv](https://github.com/tuzi3040/pyenv)
 2. 💪 Opened PR [#4507](undefined) in [honojs/hono](https://github.com/honojs/hono)
 3. 💪 Opened PR [#3338](undefined) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
 4. 🎉 Merged PR [#213](https://github.com/ProjectAnni/repo/pull/213) in [ProjectAnni/repo](https://github.com/ProjectAnni/repo)
