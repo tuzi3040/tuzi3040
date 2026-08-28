@@ -9,7 +9,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/tuzi3040/cloudflare-workers/pull/17#issuecomment-4764534905) in [tuzi3040/cloudflare-workers](https://github.com/tuzi3040/cloudflare-workers)
+1. 💪 Opened PR [#301145](https://github.com/Homebrew/homebrew-core/pull/301145) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
 2. 💪 Opened PR [#4507](undefined) in [honojs/hono](https://github.com/honojs/hono)
 3. 💪 Opened PR [#3338](undefined) in [pyenv/pyenv](https://github.com/pyenv/pyenv)
 4. 🎉 Merged PR [#213](https://github.com/ProjectAnni/repo/pull/213) in [ProjectAnni/repo](https://github.com/ProjectAnni/repo)
